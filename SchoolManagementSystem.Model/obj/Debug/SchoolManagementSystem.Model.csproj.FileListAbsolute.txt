@@ -1,0 +1,14 @@
+C:\Users\lenovo\Desktop\.Net Framework\SchoolManagementSystem\SchoolManagementSystem.Model\bin\Debug\SchoolManagementSystem.Model.dll.config
+C:\Users\lenovo\Desktop\.Net Framework\SchoolManagementSystem\SchoolManagementSystem.Model\bin\Debug\SchoolManagementSystem.Model.dll
+C:\Users\lenovo\Desktop\.Net Framework\SchoolManagementSystem\SchoolManagementSystem.Model\bin\Debug\SchoolManagementSystem.Model.pdb
+C:\Users\lenovo\Desktop\.Net Framework\SchoolManagementSystem\SchoolManagementSystem.Model\bin\Debug\EntityFramework.dll
+C:\Users\lenovo\Desktop\.Net Framework\SchoolManagementSystem\SchoolManagementSystem.Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lenovo\Desktop\.Net Framework\SchoolManagementSystem\SchoolManagementSystem.Model\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\lenovo\Desktop\.Net Framework\SchoolManagementSystem\SchoolManagementSystem.Model\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\lenovo\Desktop\.Net Framework\SchoolManagementSystem\SchoolManagementSystem.Model\bin\Debug\EntityFramework.xml
+C:\Users\lenovo\Desktop\.Net Framework\SchoolManagementSystem\SchoolManagementSystem.Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lenovo\Desktop\.Net Framework\SchoolManagementSystem\SchoolManagementSystem.Model\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\lenovo\Desktop\.Net Framework\SchoolManagementSystem\SchoolManagementSystem.Model\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\lenovo\Desktop\.Net Framework\SchoolManagementSystem\SchoolManagementSystem.Model\obj\Debug\SchoolManagementSystem.Model.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\.Net Framework\SchoolManagementSystem\SchoolManagementSystem.Model\obj\Debug\SchoolManagementSystem.Model.dll
+C:\Users\lenovo\Desktop\.Net Framework\SchoolManagementSystem\SchoolManagementSystem.Model\obj\Debug\SchoolManagementSystem.Model.pdb

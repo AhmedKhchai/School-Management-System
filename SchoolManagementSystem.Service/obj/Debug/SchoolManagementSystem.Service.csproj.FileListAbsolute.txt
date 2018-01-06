@@ -1,0 +1,15 @@
+C:\Users\lenovo\Desktop\.Net Framework\SchoolManagementSystem\SchoolManagementSystem.Service\bin\Debug\SchoolManagementSystem.Service.dll
+C:\Users\lenovo\Desktop\.Net Framework\SchoolManagementSystem\SchoolManagementSystem.Service\bin\Debug\SchoolManagementSystem.Service.pdb
+C:\Users\lenovo\Desktop\.Net Framework\SchoolManagementSystem\SchoolManagementSystem.Service\bin\Debug\Itenso.TimePeriod.dll
+C:\Users\lenovo\Desktop\.Net Framework\SchoolManagementSystem\SchoolManagementSystem.Service\bin\Debug\SchoolManagementSystem.Data.dll
+C:\Users\lenovo\Desktop\.Net Framework\SchoolManagementSystem\SchoolManagementSystem.Service\bin\Debug\SchoolManagementSystem.Model.dll
+C:\Users\lenovo\Desktop\.Net Framework\SchoolManagementSystem\SchoolManagementSystem.Service\bin\Debug\EntityFramework.dll
+C:\Users\lenovo\Desktop\.Net Framework\SchoolManagementSystem\SchoolManagementSystem.Service\bin\Debug\PagedList.dll
+C:\Users\lenovo\Desktop\.Net Framework\SchoolManagementSystem\SchoolManagementSystem.Service\bin\Debug\RandomNameGeneratorLibrary.dll
+C:\Users\lenovo\Desktop\.Net Framework\SchoolManagementSystem\SchoolManagementSystem.Service\bin\Debug\SchoolManagementSystem.Data.pdb
+C:\Users\lenovo\Desktop\.Net Framework\SchoolManagementSystem\SchoolManagementSystem.Service\bin\Debug\SchoolManagementSystem.Model.pdb
+C:\Users\lenovo\Desktop\.Net Framework\SchoolManagementSystem\SchoolManagementSystem.Service\bin\Debug\EntityFramework.xml
+C:\Users\lenovo\Desktop\.Net Framework\SchoolManagementSystem\SchoolManagementSystem.Service\bin\Debug\PagedList.xml
+C:\Users\lenovo\Desktop\.Net Framework\SchoolManagementSystem\SchoolManagementSystem.Service\obj\Debug\SchoolManagementSystem.Service.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\.Net Framework\SchoolManagementSystem\SchoolManagementSystem.Service\obj\Debug\SchoolManagementSystem.Service.dll
+C:\Users\lenovo\Desktop\.Net Framework\SchoolManagementSystem\SchoolManagementSystem.Service\obj\Debug\SchoolManagementSystem.Service.pdb
